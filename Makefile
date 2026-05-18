@@ -15,8 +15,8 @@ all: $(TARGET)
 	$(TARGET): $(OBJS)
 	$(CC) $(CFLAGS) -o $@ $(OBJS)
 	
-	# Compile .c to .o
-	%.o: %.c
+# Compile .c to .o
+%.o: %.c
 	$(CC) $(CFLAGS) -c $< -o $@
 
 # Clean build files
