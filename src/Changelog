@@ -1,0 +1,15 @@
+|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+|  Changes are listed below.                                  |
+|      [+] means additions                                    |
+|      [-] means removals                                     |
+|      [~] means modifications                                |
+|+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++|
+
+
+Change template:
+
+User@Branch@Date
+[Affected file list with appropriate symbols]
+[Description of changes]
+[Changes approved by - if no approval needed you can leave this out]
+
